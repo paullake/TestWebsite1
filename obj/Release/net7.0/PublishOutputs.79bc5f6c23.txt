@@ -1,0 +1,7 @@
+C:\Work\Projects\TestWebsite1\TestWebsite1\TestWebsite1\obj\Release\net7.0\PubTmp\Out\TestWebsite1.exe
+C:\Work\Projects\TestWebsite1\TestWebsite1\TestWebsite1\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Work\Projects\TestWebsite1\TestWebsite1\TestWebsite1\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Work\Projects\TestWebsite1\TestWebsite1\TestWebsite1\obj\Release\net7.0\PubTmp\Out\TestWebsite1.dll
+C:\Work\Projects\TestWebsite1\TestWebsite1\TestWebsite1\obj\Release\net7.0\PubTmp\Out\TestWebsite1.deps.json
+C:\Work\Projects\TestWebsite1\TestWebsite1\TestWebsite1\obj\Release\net7.0\PubTmp\Out\TestWebsite1.runtimeconfig.json
+C:\Work\Projects\TestWebsite1\TestWebsite1\TestWebsite1\obj\Release\net7.0\PubTmp\Out\TestWebsite1.pdb
